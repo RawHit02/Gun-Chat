@@ -1,4 +1,4 @@
-# GUN Chat Dapp Demo
+# Chat - Gun
 
 A decentralized chat app built with [GUN](https://gun.eco/). 
 
